@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="39553bfc-5907-4a67-98db-a22f4bed6450" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>true</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.20.14:83/producer/wsdl/test.wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="xml.xsd" MetadataType="Schema" ID="6344f12c-908c-49c7-b9b8-673bcbd3456c" SourceId="1" SourceUrl="http://www.w3.org/2009/01/xml.xsd" />
+    <MetadataFile FileName="xroad.xsd" MetadataType="Schema" ID="da5ab645-1ae4-4698-8f6d-3377a8c70441" SourceId="1" SourceUrl="http://x-road.eu/xsd/xroad.xsd" />
+    <MetadataFile FileName="identifiers.xsd" MetadataType="Schema" ID="063e664c-356a-4f0c-bdd9-2adf9e0a07bd" SourceId="1" SourceUrl="http://x-road.eu/xsd/identifiers.xsd" />
+    <MetadataFile FileName="person_register.wsdl" MetadataType="Wsdl" ID="6324bb7d-37e4-4903-a35d-0d71c3b38d76" SourceId="1" SourceUrl="http://192.168.20.14:83/producer/wsdl/test.wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

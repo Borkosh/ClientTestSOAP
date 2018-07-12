@@ -1,0 +1,6 @@
+C:\Users\madina\Desktop\TestSoap\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\madina\Desktop\TestSoap\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\madina\Desktop\TestSoap\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\madina\Desktop\TestSoap\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\madina\Desktop\TestSoap\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\madina\Desktop\TestSoap\ConsoleApplication1\ConsoleApplication1\obj\Debug\ClientTestSOAP.csprojResolveAssemblyReference.cache
